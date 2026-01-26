@@ -58,10 +58,7 @@ python src/analysis.py
 
 | File | Description |
 |------|-------------|
-| `combined_figure.png` | Publication-ready 4-panel figure |
-| `report.html` | Full analysis report with figures |
-| `figure_legend.md` | Scientific figure legend |
-| `methods.md` | Methods section for manuscript |
+| `combined_figure.png` | 4-panel figure |
 | `test_results.txt` | Statistical test results |
 
 ## Statistical Summary
