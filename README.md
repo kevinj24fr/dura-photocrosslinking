@@ -35,9 +35,6 @@ Riboflavin increases UV crosslinking effectiveness by **75-fold** (162× vs 2×)
 │   │   └── descriptive_statistics.csv
 │   ├── statistics/
 │   │   └── test_results.txt
-│   ├── report.html
-│   ├── figure_legend.md
-│   └── methods.md
 ├── requirements.txt
 └── README.md
 ```
