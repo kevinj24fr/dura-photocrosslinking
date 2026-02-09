@@ -2,17 +2,6 @@
 
 AFM analysis demonstrating that riboflavin dramatically amplifies UV-induced tissue stiffening.
 
-## Key Finding
-
-| Condition | Baseline | After 3mW UV | Fold Change |
-|-----------|----------|--------------|-------------|
-| PBS Control | 51 kPa | 123 kPa | **2×** |
-| 2mM Riboflavin | 53 kPa | 2,417 kPa | **46×** |
-| 4mM Riboflavin | 52 kPa | 4,670 kPa | **89×** |
-| 8mM Riboflavin | 53 kPa | 8,006 kPa | **162×** |
-
-Riboflavin increases UV crosslinking effectiveness by **75-fold** (162× vs 2×).
-
 ## Repository Structure
 
 ```
